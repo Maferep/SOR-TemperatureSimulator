@@ -1,4 +1,4 @@
-This is a college project that utilizes successive over-relaxation to solve an N-dimensional linear system. It uses a python notebook and ensures an efficient solution through sparse matrices.
+This is a student project that utilizes successive over-relaxation to solve an N-dimensional linear system. It uses a python notebook and ensures an efficient solution through sparse matrices.
 
 # Problem statement
 The approximate solution T of Laplace's equation ∇2 T = 0 in a 
