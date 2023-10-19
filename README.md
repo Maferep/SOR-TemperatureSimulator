@@ -10,7 +10,8 @@ the following operator to each one of the grid nodes
 
 The behavior of the SOR method is analyzed, and a then we determine the distribution of heat over a region of a computer's motherboard.
 
-![image](https://github.com/Maferep/SOR-TemperatureSimulator/assets/62344533/f6f83df2-bcc9-4266-93c5-cd75e3c2875e)
+![image](https://github.com/Maferep/SOR-TemperatureSimulator/assets/62344533/3f5f5ff5-b217-42ba-8ad4-08507ad69406)
+
 
 The figure shows the discretization of a square domain whose sides were divided into N = 4 equal parts, 
 which will give an approximate solution T in the (N-1) x (N-1) interior nodes of the grid, 
@@ -23,10 +24,15 @@ for N = 4, acquires the following structure:
 
 ## Tasks
 a) Apply the operator indicated in (1) to the problem posed and determine the structure to be used. acquires matrix A for a generic N value. Analyze whether the structure acquired by the matrix It depends on how you number the nodes. 
+
 b) Write a program to apply the SOR method to the problem posed, considering how data the values of N, RTOL and w. 
+
 c) Apply the developed program considering RTOL = 0.01, N = 4 and variable w (1.00, 1.05, 1.10,..., 1.95). 
+
 d) Repeat considering N = 32. Keep in mind to only operate with non-null elements of A to be able to solve this case without excessive memory requirements.
-e) Present the results obtained by plotting the number of iterations needed to converge in each case as a function of w. In the same graph present the following estimate empirical ρ(TSOR) ≈ R1/n where R is the tolerance achieved and n is the number of iterations carried out on a case-by-case basis. (
+
+e) Present the results obtained by plotting the number of iterations needed to converge in each case as a function of w. In the same graph present the following estimate empirical ρ(TSOR) ≈ R1/n where R is the tolerance achieved and n is the number of iterations carried out on a case-by-case basis. 
+
 f) Verify whether the data obtained experimentally correspond to the theoretical values of ρ(TGS), woptimum, and ρ(TSOR). Write conclusions.
 
 ### Part 2
