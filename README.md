@@ -42,4 +42,4 @@ Take N = 8, RTOL = 0.001 and w = woptimal to perform these calculations.
 
 # Warnings
 
-Some tranlations to English are pending.
+Some translations to English are pending.
