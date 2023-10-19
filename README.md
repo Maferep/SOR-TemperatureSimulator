@@ -20,7 +20,8 @@ Numbering the nodes as shown in Figure approximate solution T in the interior no
 is obtained as a solution of a linear equations whose matrix of coefficients and independent term,
 for N = 4, acquires the following structure:
 
-![image](https://github.com/Maferep/SOR-TemperatureSimulator/assets/62344533/b299df53-d723-4056-b257-af096ff9d2aa)
+![image](https://github.com/Maferep/SOR-TemperatureSimulator/assets/62344533/d26547d2-5bbb-407e-b87e-1d3c75f03223)
+
 
 ## Tasks
 a) Apply the operator indicated in (1) to the problem posed and determine the structure to be used. acquires matrix A for a generic N value. Analyze whether the structure acquired by the matrix It depends on how you number the nodes. 
