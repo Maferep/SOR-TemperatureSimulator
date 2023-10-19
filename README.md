@@ -39,3 +39,7 @@ Each group must report the temperature value in the center corresponding to thei
 It also asks to plot the isolines (or isobands) of the temperature calculated in the form of two-dimensional or, 
 failing that, graph the temperature distribution according to slices horizontal or vertical using Cartesian diagrams. 
 Take N = 8, RTOL = 0.001 and w = woptimal to perform these calculations.
+
+# Warnings
+
+Some tranlations to English are pending.
