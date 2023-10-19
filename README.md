@@ -8,8 +8,8 @@ the following operator to each one of the grid nodes
 
 4Ti j − Ti−1 j − Ti+1 j − Ti j−1 − Ti j+1 = 0
 
-The behavior of the SOR method is analyzed and in the second a practical application 
-is made consisting of determining the distribution of over a region of a computer's motherboard.
+The behavior of the SOR method is analyzed, and a then we determine the distribution of heat over a region of a computer's motherboard.
+
 ![image](https://github.com/Maferep/SOR-TemperatureSimulator/assets/62344533/f6f83df2-bcc9-4266-93c5-cd75e3c2875e)
 
 The figure shows the discretization of a square domain whose sides were divided into N = 4 equal parts, 
